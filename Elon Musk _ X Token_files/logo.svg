@@ -1,0 +1,11 @@
+<svg width="350" height="350" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <clipPath id="clip0_0_1">
+   <rect id="svg_1" x="67" y="87" fill="white" height="300" width="300"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" fill="white" d="m203.57,152.025l111.7,-127.15l-26.46,0l-97.03,110.38l-77.44,-110.38l-89.34,0l117.13,166.93l-117.13,133.32l26.46,0l102.4,-116.59l81.8,116.59l89.34,0m-263.99,-280.71l40.65,0l187.13,262.13l-40.66,0"/>
+ </g>
+</svg>
